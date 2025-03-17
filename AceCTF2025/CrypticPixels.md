@@ -1,3 +1,5 @@
+## Cryptic Pixels - Steganography
+
 ### Question:
 
 This image looks normal at first, but something important is hidden inside. The secret is carefully concealed, making it hard to find.

@@ -1,6 +1,6 @@
-## Webrypto
+## Webrypto -- web
 
----
+
 
 ### Question
 
@@ -13,7 +13,6 @@ I know the truth now. Do you think you can uncover it too?
 [](https://chal.acectf.tech/Webrypto/)
 
 
----
 
 ### Approach
 
