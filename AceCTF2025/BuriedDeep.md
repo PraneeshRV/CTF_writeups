@@ -6,7 +6,7 @@ The flag content should be in lowercase letters only.
 ### Approach
 
 I checked the /robots.txt of the website to find
-![alt text](image6.png)
+![alt text](images/image6.png)
 
 I then checked for script and css files,
 then i found a #flag{} section in the CSS file,
