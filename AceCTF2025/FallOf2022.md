@@ -16,7 +16,7 @@ Good Luck!
 ### Solution
 
 From the hint that is given, it must be something related to .txt files. So I used the most basic tool to search for any .txt files in the website
-
+]
 `dig acectf.tech TXT`
 
 The command directly prints the TXT file which has the flag as its name.
